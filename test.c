@@ -4,4 +4,5 @@
 int main() {
   assert(f1(5) == 2);
   assert(f2() == 2);
+  assert(f1(20) == 21);
 }
