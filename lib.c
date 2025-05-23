@@ -13,3 +13,9 @@ int f2() {
   a++;
   return a;
 }
+
+int f3() {
+  int a = 100;
+  a--;
+  return a;
+}
